@@ -13,7 +13,6 @@ Primeiro projeto criado no intuito de divulgar as redes sociais.
 <br>
 
 
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
