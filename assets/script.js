@@ -18,7 +18,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/assets/larisprofile.png")
   }
 
-
+}
 /* if(html.classList.contains('light')){
   html.classList.remove('light')
 }
@@ -27,4 +27,3 @@ function toggleMode() {
   }*/
 
 
-}

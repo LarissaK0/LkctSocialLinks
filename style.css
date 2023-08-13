@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-
+  box-sizing: border-box;
 }
 
 :root {
@@ -96,7 +96,7 @@ padding: 0 24px;
   height: 24px;
   background: rgba(109, 68, 255, 0.082);
   border: 1px solid rgba(49, 9, 192, 0.205);
-  --webkit-backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
 }
 
@@ -183,7 +183,7 @@ footer {
   }
 
 
-.light {
+  .light {
   --bg-url: url(./assets/assets/bg-light.jpg)
 }
 }
