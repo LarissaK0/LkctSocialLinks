@@ -18,7 +18,8 @@
   
 
 body {
-
+background: var(--bg-url) no-repeat top center/cover;
+height: 100vh;
 /*  
 background-image: url(./assets/assets/bg-mobile.jpg);
 background-position: top center; 
@@ -27,8 +28,6 @@ background-repeat: no-repeat;
 */
 
 /*background: color image repeat position/size*/
-background: var(--bg-url) no-repeat top center/cover;
-height: 100vh;
 }
 
 
