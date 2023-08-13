@@ -18,6 +18,7 @@
   
 
 body {
+
 /*  
 background-image: url(./assets/assets/bg-mobile.jpg);
 background-position: top center; 
@@ -77,11 +78,16 @@ padding: 0 24px;
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  animation: slide-back 0.3s;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in 0.3s forwards;
+
+}
+
+#switch button:hover {
+  outline: 8px solid rgba(173, 91, 206, 0.5);
 }
 
 #switch span {
@@ -180,4 +186,25 @@ footer {
 .light {
   --bg-url: url(./assets/assets/bg-light.jpg)
 }
+}
+
+/* animation */
+
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+  
+}
+
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
