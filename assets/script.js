@@ -15,7 +15,7 @@ function toggleMode() {
 
   else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute("scr", "./assets/assets/larisprofile.png")
+    img.setAttribute("src", "./assets/assets/larisprofile.png")
   }
 
 
