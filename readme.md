@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online. 
 
-Você pode acessar o projeto clicando <a href="https://larissak0.github.io/LkctSocialLinks/" target="_blank">AQUI</a>!
+<p> Você pode acessar o projeto clicando <a href="https://larissak0.github.io/LkctSocialLinks/" target="_blank">AQUI</a>! </p>
 ------
 
 <footer>Feito com ♥ by Larissa :wave:</footer>
