@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks by Larissa </h1>
 
 <p align="center">
-Primeiro projeto criado no intuito de divulgar as redes sociais.
+Primeiro projeto criado com o intuito de divulgar as redes sociais.
 </p>
 
 
